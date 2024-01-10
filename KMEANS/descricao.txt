@@ -1,0 +1,22 @@
+Sistema de Identificação de Perfil de Usuários para Streaming de Música
+
+Descrição:
+
+Este projeto consiste no desenvolvimento de um sistema para analisar e identificar o perfil dos usuários de um serviço de entrega de streaming de música. O sistema foi concebido como parte de um trabalho acadêmico e tem como objetivo principal extrair informações relevantes de um conjunto de dados, que podem ser fornecidos tanto em formato de arquivo de texto quanto em formato .csv.
+
+Funcionalidades Principais:
+
+Carregamento de Dados: O sistema permite que o usuário carregue dados de usuários a partir de um arquivo texto ou .csv.
+Análise de Dados: Utilizando técnicas de análise de dados e aprendizado de máquina, o sistema realiza a identificação de padrões no comportamento dos usuários.
+
+Visualização Gráfica: O resultado da análise é apresentado por meio de visualizações gráficas, incluindo gráficos 3D que representam clusters identificados pelo algoritmo de agrupamento K-Means.
+
+Motivação:
+Este sistema foi desenvolvido como parte de um trabalho acadêmico que visa explorar técnicas de análise de dados para compreender os padrões de comportamento dos usuários em plataformas de streaming de música. A identificação de perfis de usuários pode ser valiosa para oferecer recomendações mais personalizadas e aprimorar a experiência do usuário.
+
+Como Utilizar:
+
+- Execute o sistema.
+- Utilize o botão "Load Data" para carregar um arquivo de dados em formato texto (.txt) ou .csv.
+- Observe as visualizações gráficas geradas pelo sistema, incluindo clusters identificados e informações sobre o perfil dos usuários.
+-Este projeto oferece uma solução prática para entender e visualizar os padrões de uso em plataformas de streaming de música, contribuindo para uma abordagem mais personalizada na entrega de conteúdo aos usuários.
